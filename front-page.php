@@ -21,7 +21,7 @@
   <div class="w-container">
     <div class="wpfps-100-all">
       <div class="wpfps-centered-text">
-        <blockquote>&quot;Recording with Xavier brought my single to life. Plain and simple.&quot;<br><span class="wpfps-bq-author"><strong>Kaylee -- Songwriter</strong></span></blockquote>
+        <blockquote>&quot;Recording with Xavier brought my single to life. Plain and simple.&quot;<br><span class="wpfps-bq-author"><strong>Kayli -- Singer / Songwriter</strong></span></blockquote>
       </div>
     </div>
   </div>
