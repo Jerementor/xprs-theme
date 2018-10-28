@@ -1,15 +1,18 @@
 <?php get_header(); ?>
+
 <div class="xprs-flex-container">
 <div class="xprs-cover-div">
   <div class="xprs-container">
     <div class="w-container">
       <h1 class="xprs-header-lg xprs-text-center">Schedule Recording Time Today</h1>
       <div class="w-embed w-script">
-        <!--  Calendly badge widget begin  -->
-        <link href="https://assets.calendly.com/assets/external/widget.css" rel="stylesheet">
-        <script src="https://assets.calendly.com/assets/external/widget.js" type="text/javascript"></script>
-        <script type="text/javascript">Calendly.initBadgeWidget({url: 'https://calendly.com/xprs', text: 'Schedule time with me', color: '#00a2ff', branding: true});</script>
-        <!--  Calendly badge widget end  -->
+    
+      <!-- Calendly inline widget begin -->
+      <div class="calendly-inline-widget" data-url="https://calendly.com/xprs" style="min-width:320px;height:580px;"></div>
+      <script type="text/javascript" src="https://assets.calendly.com/assets/external/widget.js%22%3E"></script>
+      <!-- Calendly inline widget end -->        
+              
+        
       </div>
     </div>
   </div>
